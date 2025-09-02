@@ -1,0 +1,10 @@
+/* Import custom font */
+@font-face {
+    font-family: "Nikki";
+    src: url("Infinity_Nikki_Font.woff2") format(".woff2");
+}
+
+/* Header */
+h1, h2 {
+    font-family: Nikki;
+}
